@@ -92,7 +92,7 @@
 
 }
 body {
-    background-image: url('img/background.png');
+    background-image: url('background.png');
     background-repeat: no-repeat;
     background-size: cover; /* Isse image puri body ko cover karegi */
     background-position: center; /* Isse image ko beech mein position milegi */
